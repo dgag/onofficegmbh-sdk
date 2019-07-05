@@ -1,0 +1,11 @@
+{
+    "name": "rares/onofficegmbh-sdk",
+    "description": "Fork for easy integration in development of the onOffice API SDK, forked from onOfficeGmbH/sdk (unofficial)",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "SDK/"
+        ]
+    }
+}
